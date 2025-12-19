@@ -1,0 +1,15 @@
+D:\repos\ConsoleAppBB\ConsoleAppBB\bin\Debug\net9.0\ConsoleAppBB.exe
+D:\repos\ConsoleAppBB\ConsoleAppBB\bin\Debug\net9.0\ConsoleAppBB.deps.json
+D:\repos\ConsoleAppBB\ConsoleAppBB\bin\Debug\net9.0\ConsoleAppBB.runtimeconfig.json
+D:\repos\ConsoleAppBB\ConsoleAppBB\bin\Debug\net9.0\ConsoleAppBB.dll
+D:\repos\ConsoleAppBB\ConsoleAppBB\bin\Debug\net9.0\ConsoleAppBB.pdb
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.AssemblyInfoInputs.cache
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.AssemblyInfo.cs
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.csproj.CoreCompileInputs.cache
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.sourcelink.json
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.dll
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\refint\ConsoleAppBB.dll
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.pdb
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ConsoleAppBB.genruntimeconfig.cache
+D:\repos\ConsoleAppBB\ConsoleAppBB\obj\Debug\net9.0\ref\ConsoleAppBB.dll
